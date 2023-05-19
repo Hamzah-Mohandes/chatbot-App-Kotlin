@@ -1,0 +1,6 @@
+class DatabaseHandler
+{
+    fun connectToDatabase (){
+
+    }
+}
