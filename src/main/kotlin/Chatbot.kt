@@ -1,5 +1,0 @@
-class Chatbot {
-    fun start() {
-
-    }
-}
