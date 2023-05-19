@@ -1,7 +1,5 @@
 # chatbot-App-Kotlin
-# Grüße-Chatbot
 
-Dies ist ein einfacher Chatbot, der Grüße sendet. Der Chatbot ist in Kotlin implementiert und verwendet die `readln()`-Funktion zum Einlesen von Benutzereingaben.
 
 ## Verwendung
 
